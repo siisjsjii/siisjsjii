@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siisjsjii&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Agent%20Development-0ea5e9?style=flat" alt="Focus: Agent Development" />
 </p>
 
